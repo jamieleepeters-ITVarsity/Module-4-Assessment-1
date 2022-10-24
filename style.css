@@ -1,7 +1,7 @@
 body{ 
     margin: 0;
     padding: 0;  
-    width: 50%;                                           
+    width: 100%;                                           
     background-color: #ffffff;	    
  }
 #right-colomn{
@@ -10,7 +10,7 @@ body{
    background-color: #00ffff;     
 }
 #right-colomn img{
-     width:230px;
+     width:130px;
      margin-left:140px;
      margin-top:50px;
 }
